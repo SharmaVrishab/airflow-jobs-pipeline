@@ -182,34 +182,10 @@ job-listings-pipeline/
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please:
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
 ## 📝 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙋 Questions?
-
-Open an issue or reach out at **your.email@example.com**
-
----
-
-<div align="center">
-
-**Built with ❤️ by [Your Name]**
-
-⭐ Star this repo if you find it useful!
-
-</div>
+**Questions or suggestions?** Open an issue or submit a pull request.
