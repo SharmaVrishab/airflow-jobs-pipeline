@@ -1,3 +1,11 @@
-.env
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+simple_auth_manager_passwords.json*
 __pycache__/
-.vscode
+*.pyc
+
+# Env
+.env
+.venv/
